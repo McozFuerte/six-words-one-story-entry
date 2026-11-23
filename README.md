@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/McozFuerte/six-words-one-story-entry/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 [![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/McozFuerte/six-words-one-story-entry/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 
-Writes a complete story in exactly six words — "The parrot repeats her dying words." — to /output/entry.txt.
+Writes a complete story in exactly six words — "The parrot echoes her last word." — to /output/entry.txt.
 
 ## Run it
 
